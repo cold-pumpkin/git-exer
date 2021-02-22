@@ -8,3 +8,4 @@
 - push
 - pull
 - pop
+- stash
