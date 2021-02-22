@@ -7,3 +7,4 @@
 - checkout
 - push
 - pull
+- pop
