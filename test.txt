@@ -3,3 +3,4 @@ Something...!!
 I wanna master Git!
 
 - fast-forward 테스트
+- 3 way merge 테스트
