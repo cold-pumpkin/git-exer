@@ -1,3 +1,5 @@
 This is a test file
 Something...!!
 I wanna master Git!
+
+- fast-forward 테스트
