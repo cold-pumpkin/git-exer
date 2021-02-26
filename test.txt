@@ -1,3 +1,5 @@
 This is a test file
 Something...!!
 I wanna master Git!
+
+master rebase auto-merge
