@@ -9,3 +9,5 @@
 - pull
 - pop
 - stash
+- merge
+- rebase
