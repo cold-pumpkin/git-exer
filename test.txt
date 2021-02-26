@@ -2,4 +2,5 @@ This is a feature/c rebase test file~!
 Something...!!
 I wanna master Git!
 
-master rebase auto-merge
+master rebase auto-merg
+master rebase conflict
