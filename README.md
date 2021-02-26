@@ -11,3 +11,7 @@
 - stash
 - merge
 - rebase
+  -- abort
+	-- continue
+	-- skip
+	- i (interative)
