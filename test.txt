@@ -3,4 +3,4 @@ Something...!!
 I wanna master Git!
 
 master rebase auto-merg
-master rebase conflict
+master & feature/c rebase conflict
