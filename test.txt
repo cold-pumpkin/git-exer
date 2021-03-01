@@ -1,3 +1,4 @@
+PR conflict test (master)
 This is a feature/c rebase test file~!
 Something...!!
 I wanna master Git!
