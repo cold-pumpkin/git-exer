@@ -4,3 +4,6 @@ I wanna master Git!
 
 master rebase auto-merg
 master & feature/c rebase conflict
+
+- fast-forward Conflict 테스트
+- 3 way merge 테스트
